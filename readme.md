@@ -6,10 +6,10 @@ This is a repository which contains all the tasks I have done while studying in 
 
 ## JavaScript roadmap
 
--   (Done) [javascript basics](https://github.com/IvanVarbanov/SoftUni/tree/master/JavaScript/01.JavaScript-Basics)
--   (Done) [javascript fundamentals](https://github.com/IvanVarbanov/SoftUni/tree/master/JavaScript/02.JavaScript-Fundamentals)
--   (Done) [javascript advanced](https://github.com/IvanVarbanov/SoftUni/tree/master/JavaScript/03.JavaScript-Advanced)
--   (Here) [javascript applications](https://github.com/IvanVarbanov/SoftUni/tree/master/JavaScript/04.JavaScript-Applications)
+-   (Done) [JavaScript Basics](https://github.com/IvanVarbanov/SoftUni/tree/master/JavaScript/01.JavaScript-Basics)
+-   (Done) [JavaScript Fundamentals](https://github.com/IvanVarbanov/SoftUni/tree/master/JavaScript/02.JavaScript-Fundamentals)
+-   (Done) [JavaScript Advanced](https://github.com/IvanVarbanov/SoftUni/tree/master/JavaScript/03.JavaScript-Advanced)
+-   (Here) [JavaScript Applications](https://github.com/IvanVarbanov/SoftUni/tree/master/JavaScript/04.JavaScript-Applications)
 -   ( ) JavaScript Back-End
 -   ( ) ReactJS
 -   ( ) Angular
