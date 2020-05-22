@@ -4,7 +4,7 @@ This is a repository which contains all the tasks I have done while studying in 
 
 # Software engineering
 
-## JavaScript roadmap
+### JavaScript roadmap
 
 -   (Done) [JavaScript Basics](https://github.com/IvanVarbanov/SoftUni/tree/master/JavaScript/01.JavaScript-Basics)
 -   (Done) [JavaScript Fundamentals](https://github.com/IvanVarbanov/SoftUni/tree/master/JavaScript/02.JavaScript-Fundamentals)
@@ -15,13 +15,13 @@ This is a repository which contains all the tasks I have done while studying in 
 -   ( ) Angular
 -   ( ) VueJS
 
-## PHP roadmap
+### PHP roadmap
 
 -   ( ) [PHP Web Basics](https://softuni.bg/opencourses/php-basics)
 -   ( ) [PHP Fundamentals](https://softuni.bg/opencourses/php-fundamentals)
 -   ( ) [PHP MVC Frameworks](https://softuni.bg/opencourses/php-mvc-frameworks)
 
-## Front-End
+### Front-End
 
 -   ( ) [HTML & CSS](https://softuni.bg/courses/html-and-css)
 -   ( ) [CSS Advanced](https://softuni.bg/trainings/courses)
