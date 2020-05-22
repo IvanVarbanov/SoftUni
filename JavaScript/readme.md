@@ -1,5 +1,7 @@
 # JavaScript
 
+> Total problems solved: 251
+
 -   Basics
     -   [x] [JavaScript Basics](https://softuni.bg/trainings/2590/programming-basics-with-javascript-november-2019)
 -   Fundamentals
@@ -16,5 +18,3 @@
 -   Front-End
     -   [ ] HTML & CSS
     -   [ ] CSS Advanced
-
-> Total problems solved: 251
