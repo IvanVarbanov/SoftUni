@@ -1,0 +1,15 @@
+{
+  "name": "unit-testing",
+  "version": "1.0.0",
+  "description": "unit testing",
+  "main": "ivan.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ivan Varbanov",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.2"
+  }
+}
