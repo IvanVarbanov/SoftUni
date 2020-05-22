@@ -1,20 +1,25 @@
-# JavaScript
+# Masterign JavaScript from scratch
 
-> Total problems solved: 251
+> -   Total problems solved: **241** including JavaScript Advanced
+> -   Target ~ **1000** solved problems
+
+## Roadmap
 
 -   Basics
-    -   [x] [JavaScript Basics](https://softuni.bg/trainings/2590/programming-basics-with-javascript-november-2019)
+    -   (Done) [javascript basics](https://github.com/IvanVarbanov/SoftUni/tree/master/JavaScript/01.JavaScript-Basics)
 -   Fundamentals
-    -   [x] [JavaScript Fundamentals](https://softuni.bg/trainings/2602/js-fundamentals-january-2020)
+    -   (Done) [javascript fundamentals](https://github.com/IvanVarbanov/SoftUni/tree/master/JavaScript/02.JavaScript-Fundamentals)
 -   Advanced
-    -   [x] [JavaScript Advanced](https://softuni.bg/trainings/2609/js-advanced-january-2020)
-    -   [ ] [JavaScript Applications](https://softuni.bg/trainings/2610/js-applications-february-2020)
+    -   (Done) [javascript advanced](https://github.com/IvanVarbanov/SoftUni/tree/master/JavaScript/03.JavaScript-Advanced)
+    -   (Here) [javascript applications](https://github.com/IvanVarbanov/SoftUni/tree/master/JavaScript/04.JavaScript-Applications)
 -   JS Web
     -   [ ] JavaScript Back-End
     -   [ ] ReactJS
 -   Front-End Frameworks
     -   [ ] Angular
     -   [ ] VueJS
--   Front-End
-    -   [ ] HTML & CSS
-    -   [ ] CSS Advanced
+
+## Front-End
+
+-   [ ] HTML & CSS
+-   [ ] CSS Advanced
