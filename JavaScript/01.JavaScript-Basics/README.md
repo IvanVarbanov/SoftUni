@@ -2,7 +2,7 @@
 
 > Total problems solved: 79
 
-> Link: https://softuni.bg/trainings/2590/programming-basics-with-javascript-november-2019
+> Link to course: https://softuni.bg/trainings/2590/programming-basics-with-javascript-november-2019
 
 ## ROADMAP
 

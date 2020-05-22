@@ -2,7 +2,7 @@
 
 > Total problems solved: 106
 
-> Link: https://softuni.bg/trainings/2602/js-fundamentals-january-2020
+> Link to course: https://softuni.bg/trainings/2602/js-fundamentals-january-2020
 
 ## ROADMAP
 
