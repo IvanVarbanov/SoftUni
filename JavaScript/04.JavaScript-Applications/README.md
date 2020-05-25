@@ -32,3 +32,5 @@
 -   [ ] 24 RETAKE EXAM
 
 ## TO DO / Unsolved
+
+-   5 OBJECT COMPOSITION -> Unsolved (6)
