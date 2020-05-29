@@ -25,7 +25,43 @@ function solve() {
         addComment(comment) {
             this.comments.push(comment);
         }
+
+        toString() {
+            let output = [`Post: ${this.title}`, `Content: ${this.content}`, `Rating: ${this.likes - this.dislikes}`];
+
+            if (this.comments.length > 0) {
+                output.push('Comments:');
+                this.comments.forEach((el) => {
+                    output.push(` * ${el}`);
+                });
+            }
+
+            return output.join('\n');
+        }
     }
+
+    class BlogPost extends Post {
+        views;
+        constructor(title, content, views) {
+            super(title, content);
+            this.views = views;
+        }
+
+        view() {
+            this.views += 1;
+            return this;
+        }
+
+        toString() {
+            return [`Post: ${this.title}`, `Content: ${this.content}`, `Views: ${this.views}`].join('\n');
+        }
+    }
+
+    return {
+        Post,
+        SocialMediaPost,
+        BlogPost,
+    };
 
     let post = new Post('Post', 'Content');
 
@@ -49,5 +85,9 @@ function solve() {
     //  * Good post
     //  * Very good post
     //  * Wow!
+
+    let test = new BlogPost('TestTitle', 'TestContent', 5);
+    test.view().view().view();
+    console.log(test.toString());
 }
 solve();
