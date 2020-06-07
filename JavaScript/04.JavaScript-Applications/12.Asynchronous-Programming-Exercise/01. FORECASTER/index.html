@@ -9,9 +9,10 @@
     <body>
         <div id="content">
             <div id="request">
-                <input id="location" class="bl" type="text" />
+                <input id="location" class="bl" type="text" value="London" />
                 <input id="submit" class="bl" type="button" value="Get Weather" />
             </div>
+            <h1 id="notification"></h1>
             <div id="forecast" style="display: none;">
                 <div id="current">
                     <div class="label">Current conditions</div>
@@ -21,6 +22,6 @@
                 </div>
             </div>
         </div>
-        <script src="./app.js"></script>
+        <script type="module" src="./app.js"></script>
     </body>
 </html>
