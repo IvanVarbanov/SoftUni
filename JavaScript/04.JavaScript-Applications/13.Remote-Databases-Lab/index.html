@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Document</title>
+    </head>
+    <body style="margin-top: 20px;">
+        <input type="email" id="email" value="test@gmail.com" />
+        <input type="password" id="pass" value="123456" />
+        <button id="regBtn">Регистрация</button>
+        <button id="logInBtn">Вход</button>
+        <button id="logOutBtn">Изход</button>
+        <div id="error-container" style="font-size: 30px; color: firebrick; margin-top: 20px;"></div>
+        <div id="messages-container" style="font-size: 30px; color: forestgreen; margin-top: 20px;"></div>
+
+        <script src="https://www.gstatic.com/firebasejs/7.15.0/firebase-app.js"></script>
+        <script src="https://www.gstatic.com/firebasejs/7.15.0/firebase-auth.js"></script>
+        <script src="https://www.gstatic.com/firebasejs/7.15.0/firebase-firestore.js"></script>
+
+        <script>
+            // Your web app's Firebase configuration
+            var firebaseConfig = {
+                apiKey: 'AIzaSyCWMJzclFkCJlgfaEddhtIy7D6bv2yAv6o',
+                authDomain: 'softunitestapp.firebaseapp.com',
+                databaseURL: 'https://softunitestapp.firebaseio.com',
+                projectId: 'softunitestapp',
+                storageBucket: 'softunitestapp.appspot.com',
+                messagingSenderId: '753019675350',
+                appId: '1:753019675350:web:1936db7727df8ba4b75f77',
+            };
+            // Initialize Firebase
+            firebase.initializeApp(firebaseConfig);
+        </script>
+        <script>
+            const elements = {
+                email: () => document.getElementById('email'),
+                pass: () => document.getElementById('pass'),
+                regBtn: () => document.getElementById('regBtn'),
+                logInBtn: () => document.getElementById('logInBtn'),
+                logOutBtn: () => document.getElementById('logOutBtn'),
+                errorContainer: () => document.getElementById('error-container'),
+                messagesContainer: () => document.getElementById('messages-container'),
+            };
+
+            //registration
+            elements.regBtn().onclick = (e) => {
+                const email = elements.email().value;
+                const password = elements.pass().value;
+                elements.errorContainer().innerText = '';
+
+                if (!(email || password)) {
+                    return (elements.errorContainer().innerText = 'Email and Password are required!');
+                }
+
+                firebase
+                    .auth()
+                    .createUserWithEmailAndPassword(email, password)
+                    .catch((error) => {
+                        // Handle Errors here.
+                        let errorCode = error.code;
+                        let errorMessage = error.message;
+                        elements.errorContainer().innerText = `Message: ${errorMessage} \n Code: ${errorCode}`;
+                    });
+            };
+
+            //login
+            elements.logInBtn().onclick = () => {
+                const email = elements.email().value;
+                const password = elements.pass().value;
+                elements.errorContainer().innerText = '';
+
+                if (!(email || password)) {
+                    return (elements.errorContainer().innerText = 'Email and Password are required!');
+                }
+
+                firebase
+                    .auth()
+                    .signInWithEmailAndPassword(email, password)
+                    .catch((error) => {
+                        // Handle Errors here.
+                        let errorCode = error.code;
+                        let errorMessage = error.message; // ...
+                        elements.errorContainer().innerText = `Message: ${errorMessage} \n Code: ${errorCode}`;
+                    });
+            };
+
+            //log out
+            elements.logOutBtn().onclick = () => {
+                firebase
+                    .auth()
+                    .signOut()
+                    .then(() => {
+                        //
+                        elements.messagesContainer().innerText = 'Sign-out successful.';
+                    })
+                    .catch((error) => {
+                        // An error happened.
+                        console.log(error);
+                        elements.messagesContainer().innerText = 'An error happened';
+                    });
+            };
+
+            //data observer
+            firebase.auth().onAuthStateChanged((user) => {
+                if (user) {
+                    // User is signed in.
+                    let email = user.email;
+                    let uid = user.uid; // ...
+                    console.log(user);
+                    elements.messagesContainer().innerText = 'User loget in!';
+                } else {
+                    elements.messagesContainer().innerText = 'User left the building!';
+                }
+            });
+        </script>
+    </body>
+</html>
