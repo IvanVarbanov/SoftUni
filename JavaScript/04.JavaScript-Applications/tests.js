@@ -1,9 +1,8 @@
-let obj = {
-    a: 4,
-    b: 5,
-    print: function () {
-        console.log(this);
-    },
-};
+let test = (function () {
+    let start = 'dsfsdf';
+    let end = 'dsdfsdf';
+})();
 
-obj.print();
+let ivan = 'ivan';
+
+console.log(ivan);
