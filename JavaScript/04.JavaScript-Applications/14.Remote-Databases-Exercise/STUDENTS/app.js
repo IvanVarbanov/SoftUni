@@ -5,9 +5,15 @@ const elements = {
     loadButton: () => document.getElementById('loadStudents'),
     resultsTable: () => document.getElementById('results'),
     messagesContainer: () => document.getElementById('messages'),
+    firstNameInput: () => document.getElementById('firstName'),
+    lastnameInput: () => document.getElementById('lastname'),
+    facultyNumberInput: () => document.getElementById('facultyNumber'),
+    gradeInput: () => document.getElementById('grade'),
+    addStudentButton: () => document.getElementById('add-book'),
 };
 
 elements.loadButton().addEventListener('click', loadAllStudents);
+elements.addStudentButton().addEventListener('click', addNewStudent);
 
 async function loadAllStudents() {
     let tbody = elements.resultsTable().getElementsByTagName('tbody')[0];
