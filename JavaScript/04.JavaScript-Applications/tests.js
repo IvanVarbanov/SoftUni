@@ -1,8 +1,7 @@
-let test = (function () {
-    let start = 'dsfsdf';
-    let end = 'dsdfsdf';
-})();
+let test = {
+    1: () => 1,
+    2: () => 2,
+    3: () => 3,
+};
 
-let ivan = 'ivan';
-
-console.log(ivan);
+console.log(test);
