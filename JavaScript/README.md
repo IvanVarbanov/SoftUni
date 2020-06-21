@@ -18,8 +18,3 @@
 -   Front-End Frameworks
     -   ( ) Angular
     -   ( ) VueJS
-
-## Front-End
-
--   ( ) HTML & CSS
--   ( ) CSS Advanced
