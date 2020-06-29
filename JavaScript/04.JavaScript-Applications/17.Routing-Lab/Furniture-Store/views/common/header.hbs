@@ -1,0 +1,12 @@
+<div style="background-color: grey; text-align:center; padding:15px; margin-bottom:15px;">
+    <a href="#/home">home</a> |
+    {{#if isLoggedIn}}
+    <a href="#/logout">Sing out</a> |
+    <a href="#/all-furtniture">All Furniture</a> |
+    <a href="#/creater-furtniture">Create Furniture</a> |
+    <a href="#/mine-furtniture">Mine Furniture</a>
+    {{else}}
+    <a href="#/login">Sing in</a> |
+    <a href="#/registration">Registration</a> |
+    {{/if}}
+</div>

@@ -1,0 +1,8 @@
+# Ignore macOS files
+**/.DS_Store
+
+# Visual Studio code files
+.vscode/
+
+# Node.js Tools for Visual Studio
+node_modules/
