@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-console.log('TODO...');
-=======
 const BASE_URL = 'https://students-softuni-jsapp.firebaseio.com/';
 const makeUrl = (param) => `${BASE_URL}${param}.json`;
 
@@ -82,4 +79,3 @@ function successMessage(message) {
         div.remove();
     }, 5 * 1000);
 }
->>>>>>> 5fe8c7e80714f8f75b1fcbab32641d65af4ccd9b
