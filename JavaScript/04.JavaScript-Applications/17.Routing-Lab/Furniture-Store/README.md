@@ -15,9 +15,16 @@
     -   Make database type 'Cloud Firestore'
     -   In Database > Rules add
 
-        `// Allow read/write access on all documents to any user signed in to the application
-
-        service cloud.firestore { match /databases/{database}/documents { match /{document=\*\*} { allow read, write: if request.auth != null; } } }`
+        ```
+        // Allow read/write access on all documents to any user signed in to the application
+        service cloud.firestore {
+          match /databases/{database}/documents {
+            match /{document=**} {
+              allow read, write: if request.auth != null;
+            }
+          }
+        }
+        ```
 
 ## Server
 
