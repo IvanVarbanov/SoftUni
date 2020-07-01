@@ -1,12 +1,12 @@
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: 'AIzaSyCTJmNKIRrtqyYNCvVVx82_aBkc6BF5RXE',
-    authDomain: 'softuni-jsapp-18-teammanager.firebaseapp.com',
-    databaseURL: 'https://softuni-jsapp-18-teammanager.firebaseio.com',
-    projectId: 'softuni-jsapp-18-teammanager',
-    storageBucket: 'softuni-jsapp-18-teammanager.appspot.com',
-    messagingSenderId: '253311304379',
-    appId: '1:253311304379:web:b9252d50821b74c2b0df9e',
+    apiKey: 'AIzaSyDB1X4bb2zbefPOtDlFRhF2niSv1rrRt50',
+    authDomain: 'softuni-js-app-course-projects.firebaseapp.com',
+    databaseURL: 'https://softuni-js-app-course-projects.firebaseio.com',
+    projectId: 'softuni-js-app-course-projects',
+    storageBucket: 'softuni-js-app-course-projects.appspot.com',
+    messagingSenderId: '629260259027',
+    appId: '1:629260259027:web:36b6e6f4ef81e616a90e26',
 };
 
 // Initialize Firebase

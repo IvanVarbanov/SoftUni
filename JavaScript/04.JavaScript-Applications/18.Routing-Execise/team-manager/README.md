@@ -27,10 +27,6 @@
         }
         ```
 
-## Resources folder
-
--   In this folder add all tasks and resources you have given to make the SPA
-
 ## Server
 
 -   [Live server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) for vs code with default configuration
