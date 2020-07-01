@@ -1,0 +1,22 @@
+{{> header}}
+
+<div style="margin-top:3%; padding-top: 3%;" class="container">
+    <div class="row align-items-center my-5">
+        <div class="col-lg-12">
+            <img style="margin: 0 auto; display:block;" class="img-fluid rounded mb-4 mb-lg-0"
+                src="https://lh3.googleusercontent.com/proxy/AsyRIAH0EoUk3eHqGEEoi05KDGctnb4yLYqissy_0PUe1zu21VpyEske1F96xkajzyckH96nzF3Pvzf8XUG3NP56S3i-E-O5QYzNs9TJJR5XUlqgCJFrcAn9zON2qVhDDjjJzfy6HjPo9pxPrRrN1e8dc3Pi5kTD"
+                alt="">
+        </div>
+        <div style="text-align:center;margin-top:5%;" class="col-lg-12">
+            <h1 class="font-weight-light">Does your business need support?</h1>
+            {{#if isLoggedIn}}
+            <a class="btn btn-primary" href="#/causes/create">Create your cause and seek for donors</a>
+            {{else}}
+            <a class="btn btn-primary" href="#/registration">Register</a>
+            {{/if}}
+
+        </div>
+    </div>
+</div>
+
+{{> footer}}
