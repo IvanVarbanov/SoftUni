@@ -1,0 +1,16 @@
+{{> header}}
+
+<div class="profile col-md-6 text-center col-lg">
+    <img class="profile-img" src="./images/user.png" />
+    <div class="profile-info">
+        <p>Username: <small>{{username}}</small></p>
+
+        {{#each treks}}
+        <p>{{this.location}}</p>
+        {{else}}
+        <p class="infoType">Wished 0 treks =)</p>
+        {{/each}}
+    </div>
+</div>
+
+{{> footer}}
