@@ -4,12 +4,15 @@
 
 -   [jQuery](https://jquery.com/)
 -   [Bootstrap](https://getbootstrap.com/)
+-   [Popper](https://popper.js.org/)
 -   [Handlebars](https://handlebarsjs.com/)
 -   [Sammy](http://www.sammyjs.org/)
 
 ## Database
 
 -   [Firebase](https://firebase.google.com/)
+
+-   To use own firebase database need:
 
     -   Create a web app and add `Firebase SDK snippet` in `./config/firebase.js`
     -   In `Authentication > Sign-in method > Email/Password` need to be Enabled
@@ -27,11 +30,7 @@
         }
         ```
 
-    -   This skeleton by default is configured and connected with `SoftUni-JS-App-Course-Projects`
-
-## Resources folder
-
--   In this folder add all tasks and resources you have given to make the SPA
+-   This skeleton by default is configured and connected with `SoftUni-JS-App-Course-Projects` in my firebase account.
 
 ## Server
 
