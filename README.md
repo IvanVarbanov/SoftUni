@@ -16,7 +16,7 @@ Course | Edition | Repository | Status
 [ReactJS](https://softuni.bg/opencourses/react-js) |  |  |
 [React Web Applications Masterclass](https://softuni.bg/opencourses/react-web-applications-masterclass) - Bonus |  |  |
 [Front-End Framework](https://softuni.bg/courses/front-end-framework) / [Angular](https://softuni.bg/opencourses/angular)|  |  |
-[VueJS](https://softuni.bg/opencourses/vuejs) - Bonus |  |  |
+[VueJS](https://softuni.bg/opencourses/vuejs) / [VueJS Fundamentals](https://softuni.bg/trainings/2430/vuejs-fundamentals-july-2019) |  |  |
 
 ### PHP roadmap
 
