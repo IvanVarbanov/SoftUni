@@ -26,7 +26,7 @@ Course | Edition | Repository | Status
 [PHP Fundamentals](https://softuni.bg/opencourses/php-fundamentals) |  |  |
 [PHP MVC Frameworks - Symfony](https://softuni.bg/opencourses/php-mvc-frameworks) |  |  |
 
-### Front-End
+### Front-End roadmap
 
 Course | Edition | Repository | Status
 -------|---------|------------|-------
