@@ -46,4 +46,4 @@ Course | Edition | Repository | Status
 [DevOps Basics](https://softuni.bg/opencourses/devops-basics) |  |  |
 [DevOps Fundamentals](https://softuni.bg/opencourses/devops-fundamentals) |  |  |
 [System Administration Fundamentals](https://softuni.bg/modules/89/system-administration-fundamentals-fevruari-2020) |  |  |
-[Magento](https://softuni.bg/opencourses/magento-basics) | [05.2017](https://softuni.bg/trainings/1668/magento-basics-may-2017/open) |  | Done
+[Magento 1.9.x Basics](https://softuni.bg/opencourses/magento-basics) | [05.2017](https://softuni.bg/trainings/1668/magento-basics-may-2017/open) |  | Done
