@@ -1,0 +1,27 @@
+# JavaScript Back-End - May 2020 - (ExpressJS)
+
+> Total problems solved: SOON
+
+> Link to course: https://softuni.bg/trainings/2846/js-back-end-may-2020
+
+## ROADMAP
+
+-   [x] 1 RESOURCES
+-   [ ] 2 COURSE INTRODUCTION
+-   [ ] 3 INTRO TO NODE.JS
+-   [ ] 4 NODE.JS STREAMS AND UTILITIES
+-   [ ] 5 EXPRESSJS AND TEMPLATING
+-   [ ] 6 WORKSHOP: EXPRESSJS AND TEMPLATING
+-   [ ] 7 NOSQL AND MONGODB
+-   [ ] 8 WORKSHOP: MONGODB AND MONGOOSE
+-   [ ] 9 SESSION AND AUTHENTICATION
+-   [ ] 10 WORKSHOP: SESSION AND AUTHENTICATION
+-   [ ] 11 Q&A SESSION
+-   [ ] 12 VALIDATION AND ERROR HANDLING
+-   [ ] 13 WORKSHOP: REST API
+-   [ ] 14 EXAM PREPARATION
+-   [ ] 15 EXAM PREPARATION
+-   [ ] 16 ONLINE EXAM
+-   [ ] 17 ONLINE RETAKE EXAM
+
+## TO DO / Unsolved
