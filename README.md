@@ -8,9 +8,9 @@ This is a repository which contains all the tasks I have done while studying in 
 
 Course | Edition | Repository | Status | Extra
 -------|---------|------------|--------|------
-[JavaScript Basics](https://softuni.bg/courses/programming-basics) | [11.2019](https://softuni.bg/trainings/2590/programming-basics-with-javascript-november-2019) | [Link](https://github.com/IvanVarbanov/SoftUni/tree/master/JavaScript/01.JavaScript-Basics) | [X]
-[JavaScript Fundamentals](https://softuni.bg/courses/programming-fundamentals-tech-module) | [01.2020](https://softuni.bg/trainings/2602/js-fundamentals-january-2020) | [Link](https://github.com/IvanVarbanov/SoftUni/tree/master/JavaScript/02.JavaScript-Fundamentals) | [X]
-[JavaScript Advanced](https://softuni.bg/courses/js-advanced) | [01.2020](https://softuni.bg/trainings/2609/js-advanced-january-2020) | [Link](https://github.com/IvanVarbanov/SoftUni/tree/master/JavaScript/03.JavaScript-Advanced) | [X]
+[JavaScript Basics](https://softuni.bg/courses/programming-basics) | [11.2019](https://softuni.bg/trainings/2590/programming-basics-with-javascript-november-2019) | [Link](https://github.com/IvanVarbanov/SoftUni/tree/master/JavaScript/01.JavaScript-Basics) | [x]
+[JavaScript Fundamentals](https://softuni.bg/courses/programming-fundamentals-tech-module) | [01.2020](https://softuni.bg/trainings/2602/js-fundamentals-january-2020) | [Link](https://github.com/IvanVarbanov/SoftUni/tree/master/JavaScript/02.JavaScript-Fundamentals) | [x]
+[JavaScript Advanced](https://softuni.bg/courses/js-advanced) | [01.2020](https://softuni.bg/trainings/2609/js-advanced-january-2020) | [Link](https://github.com/IvanVarbanov/SoftUni/tree/master/JavaScript/03.JavaScript-Advanced) | [x]
 [JavaScript Applications](https://softuni.bg/courses/js-applications) | [02.2020](https://softuni.bg/trainings/2610/js-applications-february-2020) | [Link](https://github.com/IvanVarbanov/SoftUni/tree/master/JavaScript/04.JavaScript-Applications) | [ ]
 [JavaScript Back-End](https://softuni.bg/courses/js-back-end) | x | x | [ ] |
 [ReactJS](https://softuni.bg/opencourses/react-js) | x | x | [ ] |
