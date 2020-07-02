@@ -10,10 +10,12 @@ This is a repository which contains all the tasks I have done while studying in 
 -   (Done) [JavaScript Fundamentals](https://github.com/IvanVarbanov/SoftUni/tree/master/JavaScript/02.JavaScript-Fundamentals)
 -   (Done) [JavaScript Advanced](https://github.com/IvanVarbanov/SoftUni/tree/master/JavaScript/03.JavaScript-Advanced)
 -   (Here) [JavaScript Applications](https://github.com/IvanVarbanov/SoftUni/tree/master/JavaScript/04.JavaScript-Applications)
--   ( ) JavaScript Back-End
--   ( ) ReactJS
--   ( ) Angular
--   ( ) VueJS
+-   ( ) [JavaScript Back-End](https://softuni.bg/courses/js-back-end)
+-   ( ) [ReactJS](https://softuni.bg/opencourses/react-js)
+-   ( ) [React Web Applications Masterclass](https://softuni.bg/opencourses/react-web-applications-masterclass) - Bonus
+-   ( ) [Front-End Framework](https://softuni.bg/courses/front-end-framework)
+-   ( ) [Angular](https://softuni.bg/opencourses/angular) - Bonus
+-   ( ) [VueJS](https://softuni.bg/opencourses/vuejs) - Bonus
 
 ### PHP roadmap
 
@@ -24,10 +26,11 @@ This is a repository which contains all the tasks I have done while studying in 
 ### Front-End
 
 -   ( ) [HTML & CSS](https://softuni.bg/courses/html-and-css)
--   ( ) [CSS Advanced](https://softuni.bg/trainings/courses)
+-   ( ) [CSS Advanced](https://softuni.bg/courses/css-advanced)
 
 # Open courses
 
+-   ( ) [Webpack 4](https://softuni.bg/opencourses/webpack-4)
 -   ( ) [MySQL](https://softuni.bg/opencourses/databases-basics-mysql)
 -   ( ) [High Quality Code](https://softuni.bg/opencourses/high-quality-code)
 -   ( ) [Data Structures Fundamentals (with Java)](https://softuni.bg/opencourses/data-structures-fundamentals-with-java)
@@ -35,3 +38,4 @@ This is a repository which contains all the tasks I have done while studying in 
 -   ( ) [DevOps Basics](https://softuni.bg/opencourses/devops-basics)
 -   ( ) [DevOps Fundamentals](https://softuni.bg/opencourses/devops-fundamentals)
 -   ( ) [System Administration Fundamentals](https://softuni.bg/modules/89/system-administration-fundamentals-fevruari-2020)
+-   (Done) [Magento 1.9.x Basics](https://softuni.bg/opencourses/magento-basics)
