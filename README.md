@@ -24,7 +24,7 @@ Course | Edition | Repository | Status
 -------|---------|------------|-------
 [PHP Web Basics](https://softuni.bg/opencourses/php-basics) |  |  |
 [PHP Fundamentals](https://softuni.bg/opencourses/php-fundamentals) |  |  |
-[PHP MVC Frameworks](https://softuni.bg/opencourses/php-mvc-frameworks) |  |  |
+[PHP MVC Frameworks - Symfony](https://softuni.bg/opencourses/php-mvc-frameworks) |  |  |
 
 ### Front-End
 
@@ -46,3 +46,25 @@ Course | Edition | Repository | Status
 [DevOps Fundamentals](https://softuni.bg/opencourses/devops-fundamentals) |  |  |
 [System Administration Fundamentals](https://softuni.bg/modules/89/system-administration-fundamentals-fevruari-2020) |  |  |
 [Magento 1.9.x Basics](https://softuni.bg/opencourses/magento-basics) | [05.2017](https://softuni.bg/trainings/1668/magento-basics-may-2017/open) |  | Done
+
+# Seminars 
+
+### JavaScript
+
+Name | Date | Duration | Status
+-----|------|----------|-------
+[Intro to NativeScript - native mobile apps с JavaScript](https://softuni.bg/trainings/1959/intro-to-nativescript-native-mobile-apps-with-javascript) | 15.04.2018 | 2 hours | 
+
+### PHP
+
+Name | Date | Duration | Status
+-----|------|----------|-------
+[REST API with PHP and Symfony](https://softuni.bg/trainings/1593/creating-a-rest-api) | 13.03.2017 | 1 hour | 
+["PHP from scratch" Workshop](https://softuni.bg/trainings/1055/php-from-scratch-workshop) | 20.08.2014 | 3.5 hours | 
+[PHP Zend Framework 2 - Simple, Easy, Fast](https://softuni.bg/trainings/1011/php-zend-framework-2-simple-easy-fast) | 03.04.2014 | 6 hours | 
+
+### HTML/CSS
+
+Name | Date | Duration | Status
+-----|------|----------|-------
+[Tech Stage: CSS Layout Secrets](https://softuni.bg/trainings/2532/tech-stage-css-layout-secrets) | 24.09.2019 | 1 hour | 
