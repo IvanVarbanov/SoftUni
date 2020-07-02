@@ -1,6 +1,6 @@
 # JavaScript Applications - February 2020
 
-> Total problems solved: SOON
+> Total problems solved: 51
 
 > Link to course: https://softuni.bg/trainings/2610/js-applications-february-2020
 

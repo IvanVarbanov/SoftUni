@@ -1,6 +1,6 @@
 # Masterign JavaScript from scratch
 
-> -   Total problems solved: **241** including JavaScript Advanced
+> -   Total problems solved: **292** including JavaScript Applications
 > -   Target ~ **1000** solved problems
 
 ## Roadmap
@@ -11,9 +11,9 @@
     -   (Done) [JavaScript Fundamentals](https://github.com/IvanVarbanov/SoftUni/tree/master/JavaScript/02.JavaScript-Fundamentals)
 -   Advanced
     -   (Done) [JavaScript Advanced](https://github.com/IvanVarbanov/SoftUni/tree/master/JavaScript/03.JavaScript-Advanced)
-    -   (Here) [JavaScript Applications](https://github.com/IvanVarbanov/SoftUni/tree/master/JavaScript/04.JavaScript-Applications)
+    -   (Done) [JavaScript Applications](https://github.com/IvanVarbanov/SoftUni/tree/master/JavaScript/04.JavaScript-Applications)
 -   JS Web
-    -   ( ) JavaScript Back-End
+    -   (Here) JavaScript Back-End
     -   ( ) ReactJS
 -   Front-End Frameworks
     -   ( ) Angular
