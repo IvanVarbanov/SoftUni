@@ -1,0 +1,50 @@
+{{> header}}
+
+<div class="content">
+    {{#if isLoggedIn}}
+    {{#each sortedArticles}}
+
+    <section class="Java">
+        <h2>{{@key}}</h2>
+        {{#each this}}
+        <div class="articles">
+            <article>
+                <h3>{{this.title}}</h3>
+                <p>{{this.content}}</p>
+                <a href="#/details/{{this.id}}" class="btn details-btn">Details</a>
+            </article>
+        </div>
+        {{/each}}
+    </section>
+
+    {{else}}
+
+    <h1 class="no-articles">No articles yet</h1>
+
+    {{/each}}
+
+    {{else}}
+
+    {{#each sortedArticles}}
+
+    <section class="Java">
+        <h2>{{@key}}</h2>
+        {{#each this}}
+        <div class="articles">
+            <article>
+                <h3>{{this.title}}</h3>
+                <p>{{this.content}}</p>
+            </article>
+        </div>
+        {{/each}}
+    </section>
+
+    {{else}}
+
+    <h1 class="no-articles">No articles yet</h1>
+
+    {{/each}}
+    {{/if}}
+</div>
+
+{{> footer}}
