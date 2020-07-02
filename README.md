@@ -15,8 +15,7 @@ Course | Edition | Repository | Status
 [JavaScript Back-End](https://softuni.bg/courses/js-back-end) |  |  |
 [ReactJS](https://softuni.bg/opencourses/react-js) |  |  |
 [React Web Applications Masterclass](https://softuni.bg/opencourses/react-web-applications-masterclass) - Bonus |  |  |
-[Front-End Framework](https://softuni.bg/courses/front-end-framework) |  |  |
-[Angular](https://softuni.bg/opencourses/angular) - Bonus |  |  |
+[Front-End Framework](https://softuni.bg/courses/front-end-framework) / [Angular](https://softuni.bg/opencourses/angular)|  |  |
 [VueJS](https://softuni.bg/opencourses/vuejs) - Bonus |  |  |
 
 ### PHP roadmap
