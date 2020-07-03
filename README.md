@@ -37,9 +37,9 @@ Course | Edition | Repository | Status
 
 Course | Edition | Repository | Status
 -------|---------|------------|-------
-[Webpack 4](https://softuni.bg/opencourses/webpack-4) |  |  |
+<!-- [Webpack 4](https://softuni.bg/opencourses/webpack-4) |  |  | -->
 [MySQL](https://softuni.bg/opencourses/databases-basics-mysql) |  |  |
-[High Quality Code](https://softuni.bg/opencourses/high-quality-code) |  |  |
+<!-- [High Quality Code](https://softuni.bg/opencourses/high-quality-code) |  |  | -->
 [Data Structures Fundamentals (with Java)](https://softuni.bg/opencourses/data-structures-fundamentals-with-java) |  |  |
 [Data Structures Advanced (with Java)](https://softuni.bg/opencourses/data-structures-advanced-with-java) |  |  |
 [DevOps Basics](https://softuni.bg/opencourses/devops-basics) |  |  |
