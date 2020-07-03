@@ -14,9 +14,8 @@ Course | Edition | Repository | Status
 [JavaScript Applications](https://softuni.bg/courses/js-applications) | [02.2020](https://softuni.bg/trainings/2610/js-applications-february-2020) | [Link](https://github.com/IvanVarbanov/SoftUni/tree/master/JavaScript/04.JavaScript-Applications) | Done
 [JavaScript Back-End / ExpressJS](https://softuni.bg/courses/js-back-end) | [05.2020](https://softuni.bg/trainings/2846/js-back-end-may-2020) | [Link](https://github.com/IvanVarbanov/SoftUni/tree/master/JavaScript/05.JavaScript-Back-End) | Here
 [ReactJS](https://softuni.bg/opencourses/react-js) |  |  |
-[React Web Applications Masterclass](https://softuni.bg/opencourses/react-web-applications-masterclass) - Bonus |  |  |
 [Front-End Framework](https://softuni.bg/courses/front-end-framework) same as [Angular](https://softuni.bg/opencourses/angular)|  |  |
-[VueJS](https://softuni.bg/opencourses/vuejs) same as [VueJS Fundamentals](https://softuni.bg/trainings/2430/vuejs-fundamentals-july-2019) |  |  |
+[VueJS](https://softuni.bg/opencourses/vuejs) |  |  |
 
 ### PHP roadmap
 
@@ -37,9 +36,7 @@ Course | Edition | Repository | Status
 
 Course | Edition | Repository | Status
 -------|---------|------------|-------
-<!-- [Webpack 4](https://softuni.bg/opencourses/webpack-4) |  |  | -->
 [MySQL](https://softuni.bg/opencourses/databases-basics-mysql) |  |  |
-<!-- [High Quality Code](https://softuni.bg/opencourses/high-quality-code) |  |  | -->
 [Data Structures Fundamentals (with Java)](https://softuni.bg/opencourses/data-structures-fundamentals-with-java) |  |  |
 [Data Structures Advanced (with Java)](https://softuni.bg/opencourses/data-structures-advanced-with-java) |  |  |
 [DevOps Basics](https://softuni.bg/opencourses/devops-basics) |  |  |
