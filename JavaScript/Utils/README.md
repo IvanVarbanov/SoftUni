@@ -1,2 +1,2 @@
 # Utils
-Utils that i maked while studying JavaScript
+Utilities that i maked while studying JavaScript
