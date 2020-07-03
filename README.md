@@ -38,10 +38,6 @@ Course | Edition | Repository | Status
 -------|---------|------------|-------
 [MySQL](https://softuni.bg/opencourses/databases-basics-mysql) |  |  |
 [Data Structures Fundamentals (with Java)](https://softuni.bg/opencourses/data-structures-fundamentals-with-java) |  |  |
-[Data Structures Advanced (with Java)](https://softuni.bg/opencourses/data-structures-advanced-with-java) |  |  |
-[DevOps Basics](https://softuni.bg/opencourses/devops-basics) |  |  |
-[DevOps Fundamentals](https://softuni.bg/opencourses/devops-fundamentals) |  |  |
-[System Administration Fundamentals](https://softuni.bg/modules/89/system-administration-fundamentals-fevruari-2020) |  |  |
 [Magento 1.9.x Basics](https://softuni.bg/opencourses/magento-basics) | [05.2017](https://softuni.bg/trainings/1668/magento-basics-may-2017/open) |  | Done
 
 # Seminars 
