@@ -12,7 +12,7 @@ Course | Edition | Repository | Status
 [JavaScript Fundamentals](https://softuni.bg/courses/programming-fundamentals-tech-module) | [01.2020](https://softuni.bg/trainings/2602/js-fundamentals-january-2020) | [Link](https://github.com/IvanVarbanov/SoftUni/tree/master/JavaScript/02.JavaScript-Fundamentals) | Done
 [JavaScript Advanced](https://softuni.bg/courses/js-advanced) | [01.2020](https://softuni.bg/trainings/2609/js-advanced-january-2020) | [Link](https://github.com/IvanVarbanov/SoftUni/tree/master/JavaScript/03.JavaScript-Advanced) | Done
 [JavaScript Applications](https://softuni.bg/courses/js-applications) | [02.2020](https://softuni.bg/trainings/2610/js-applications-february-2020) | [Link](https://github.com/IvanVarbanov/SoftUni/tree/master/JavaScript/04.JavaScript-Applications) | Done
-[JavaScript Back-End / ExpressJS](https://softuni.bg/courses/js-back-end) | [05.2020](https://softuni.bg/trainings/2846/js-back-end-may-2020) | [Link](https://github.com/IvanVarbanov/SoftUni/tree/master/JavaScript/05.JavaScript-Back-End) | Here
+[JavaScript Back-End / ExpressJS](https://softuni.bg/courses/js-back-end) | [09.2019](https://softuni.bg/trainings/2452/js-back-end-september-2019) | [Link](https://github.com/IvanVarbanov/SoftUni/tree/master/JavaScript/05.JavaScript-Back-End) | Here
 [ReactJS](https://softuni.bg/opencourses/react-js) |  |  |
 [Front-End Framework](https://softuni.bg/courses/front-end-framework) same as [Angular](https://softuni.bg/opencourses/angular)|  |  |
 [VueJS](https://softuni.bg/opencourses/vuejs) |  |  |
