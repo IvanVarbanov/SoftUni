@@ -1,8 +1,8 @@
-# JavaScript Back-End - May 2020 - (ExpressJS)
+# JavaScript Back-End - September 2019 - (ExpressJS)
 
 > Total problems solved: SOON
 
-> Link to course: https://softuni.bg/trainings/2846/js-back-end-may-2020
+> Link to course: https://softuni.bg/trainings/2452/js-back-end-september-2019
 
 ## ROADMAP
 
@@ -16,12 +16,13 @@
 -   [ ] 8 WORKSHOP: MONGODB AND MONGOOSE
 -   [ ] 9 SESSION AND AUTHENTICATION
 -   [ ] 10 WORKSHOP: SESSION AND AUTHENTICATION
--   [ ] 11 Q&A SESSION
--   [ ] 12 VALIDATION AND ERROR HANDLING
--   [ ] 13 WORKSHOP: REST API
+-   [ ] 11 VALIDATION AND ERROR HANDLING
+-   [ ] 12 WORKSHOP: REST API
+-   [ ] 13 EXAM PREPARATION
 -   [ ] 14 EXAM PREPARATION
--   [ ] 15 EXAM PREPARATION
--   [ ] 16 ONLINE EXAM
--   [ ] 17 ONLINE RETAKE EXAM
+-   [ ] 15 THEORETICAL EXAM
+-   [ ] 16 EXAM
+-   [ ] 17 RETAKE THEORETICAL EXAM
+-   [ ] 18 RETAKE EXAM
 
 ## TO DO / Unsolved
