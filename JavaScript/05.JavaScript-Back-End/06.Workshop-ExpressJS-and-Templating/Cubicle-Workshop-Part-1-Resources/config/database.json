@@ -1,0 +1,26 @@
+{
+  "lastIndex": 3,
+  "entities": [
+    {
+      "id": 1,
+      "name": "Eco-Dark",
+      "description": "Eco-Dark desc",
+      "imageUrl": "https://thingsidesire.com/wp-content/uploads/2018/06/Eco-Dark-Rubik%E2%80%99s-Cube2.jpg",
+      "difficultyLevel": "6"
+    },
+    {
+      "id": 2,
+      "name": "Pyraminx",
+      "description": "Pyraminx desc",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61izOzq%2BBAL._SY355_.jpg",
+      "difficultyLevel": "1"
+    },
+    {
+      "id": 3,
+      "name": "Megaminx",
+      "description": "Megaminx desc",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61HpQqVQ37L._SY355_.jpg",
+      "difficultyLevel": "3"
+    }
+  ]
+}
