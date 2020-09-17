@@ -14,7 +14,7 @@ Course | Edition | Repository | Status
 [JavaScript Applications](https://softuni.bg/courses/js-applications) | [02.2020](https://softuni.bg/trainings/2610/js-applications-february-2020) | [Link](https://github.com/IvanVarbanov/SoftUni/tree/master/JavaScript/04.JavaScript-Applications) | Done
 [JavaScript Back-End / ExpressJS](https://softuni.bg/courses/js-back-end) | [09.2019](https://softuni.bg/trainings/2452/js-back-end-september-2019) | [Link](https://github.com/IvanVarbanov/SoftUni/tree/master/JavaScript/05.JavaScript-Back-End) | Here
 [ReactJS](https://softuni.bg/opencourses/react-js) |  |  |
-[Front-End Framework](https://softuni.bg/courses/front-end-framework) same as [Angular](https://softuni.bg/opencourses/angular)|  |  |
+[Front-End Framework](https://softuni.bg/courses/front-end-framework) / [Angular](https://softuni.bg/opencourses/angular)|  |  |
 [VueJS](https://softuni.bg/opencourses/vuejs) |  |  |
 
 ### PHP roadmap
