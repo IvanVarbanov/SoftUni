@@ -2,8 +2,9 @@
 **/.DS_Store
 
 # Visual Studio code files
-.vscode/
+**/.vscode/
 
 # Node.js
-node_modules/
+**/node_modules/
 package-lock.json
+*.env
