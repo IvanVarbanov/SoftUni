@@ -17,6 +17,17 @@ Course | Edition | Repository | Status
 [Front-End Framework](https://softuni.bg/courses/front-end-framework) / [Angular](https://softuni.bg/opencourses/angular)|  |  |
 [VueJS](https://softuni.bg/opencourses/vuejs) |  |  |
 
+### Python roadmap
+
+Course | Edition | Repository | Status
+-------|---------|------------|-------
+[Python Basics](https://softuni.bg/courses/programming-basics) |  |  |
+[Python Fundamentals](https://softuni.bg/search/results?SearchTerm=Python+Fundamentals&CourseInstances=true&FastTrackInstances=true&Seminars=true&Questions=true&Users=true&LectureResources=true) |  |  |
+[Python Advanced](https://softuni.bg/courses/python-advanced) |  |  |
+[Python OOP](https://softuni.bg/courses/python-oop) |  |  |
+[Python Web Basics](https://softuni.bg/courses/python-web-basics) |  |  |
+[Python Web Framework](https://softuni.bg/courses/python-web-framework) |  |  |
+
 ### PHP roadmap
 
 Course | Edition | Repository | Status
