@@ -32,7 +32,7 @@ Course | Edition | Repository | Status
 
 Course | Edition | Repository | Status
 -------|---------|------------|-------
-[PHP Web Basics](https://softuni.bg/opencourses/php-basics) |  |  |
+[PHP Basics](https://softuni.bg/opencourses/php-basics) |  |  |
 [PHP Fundamentals](https://softuni.bg/opencourses/php-fundamentals) |  |  |
 [PHP MVC Frameworks - Symfony](https://softuni.bg/opencourses/php-mvc-frameworks) |  |  |
 
